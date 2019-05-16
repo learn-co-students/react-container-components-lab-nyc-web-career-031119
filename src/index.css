@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+app {
+  /* margin: 0 auto; */
+}
+
+.review-list {
+  /* margin: 0 auto; */
+  width: 80%;
+  margin: 0 auto;
+}
+
+.review{
+  margin: 1em auto;
+  padding: 1em;
+  background-color: #FFEFAC
+}
